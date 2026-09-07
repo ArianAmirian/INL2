@@ -1,0 +1,9 @@
+3. Sammarbete på Github är att flera jobbar på samma projekt
+och att man kan se vem som har gjort vad. Branches är
+delade uppdrag som man kan jobba på. Säg ifall man jobbar
+i ett team så är det en som jobbar på HTML och en annan
+som jobbar på CSS och en annan Som jobbar på JavaScript.
+Lägger man ihop det så finns det en Ledande roll som ser till
+att alla koder fungerar och är fläckfria innan de deployas till
+main så att det är ordentligt gjord för att ifall det blir det
+minsta lilla fel i koden så kan sidan möjligtvis krascha.
